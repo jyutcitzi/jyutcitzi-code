@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   viewBox="-10 0 1010 1000"
+   id="svg12"
+   sodipodi:docname="五 copy.svg"
+   inkscape:version="1.0.1 (c497b03c, 2020-09-10)">
+  <metadata
+     id="metadata18">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs16" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1144"
+     inkscape:window-height="958"
+     id="namedview14"
+     showgrid="false"
+     inkscape:zoom="0.64248728"
+     inkscape:cx="483.09449"
+     inkscape:cy="533.96937"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg12" />
+  <path
+     id="path24"
+     d="M 777 859 L 304 859 L 69 859 L 69 889 L 952 889 L 952 859 L 777 859 z "
+     transform="translate(-10)" />
+  <path
+     id="path22"
+     d="M 138 153 L 138 182 L 442 182 L 472 182 L 875 182 L 875 153 L 138 153 z "
+     transform="translate(-10)" />
+  <path
+     d="m 795.39116,810.25716 -28.72111,21.2749 Q 724.12023,775.15356 660.82737,703.35074 597.53452,631.54792 523.07234,556.022 380.53045,715.58382 217.7774,830.46831 q -4.25499,-4.25497 -12.76495,-11.70119 -8.50996,-7.44621 -15.95618,-11.7012 Q 272.02841,752.8149 350.74557,683.67145 429.46273,614.52799 500.73368,534.74708 431.59023,464.53989 358.1918,396.46018 284.79336,328.38047 214.58616,269.87448 L 239.0523,251.7908 q 69.14346,57.44225 142.01002,124.45822 72.86657,67.01596 140.94627,135.09567 60.63349,-71.27095 114.88451,-147.32874 54.25101,-76.0578 97.86458,-155.83871 l 29.78487,10.63746 q -95.73709,167.00803 -221.25905,313.8049 75.52593,76.58967 141.47814,148.39248 65.95222,71.80282 110.62952,129.24508 z"
+     id="path44"
+     style="stroke-width:1.06375" />
+</svg>

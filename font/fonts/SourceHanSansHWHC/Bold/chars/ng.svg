@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   viewBox="-10 0 1010 1000"
+   id="svg12"
+   sodipodi:docname="五 copy.svg"
+   inkscape:version="1.0.1 (c497b03c, 2020-09-10)">
+  <metadata
+     id="metadata18">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs16" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1155"
+     inkscape:window-height="888"
+     id="namedview14"
+     showgrid="false"
+     inkscape:zoom="0.52945196"
+     inkscape:cx="475.07751"
+     inkscape:cy="445.35227"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg12" />
+  <path
+     id="path34"
+     d="M 802 802 L 279 802 L 66 802 L 66 920 L 958 920 L 958 802 L 802 802 z "
+     transform="translate(-10)" />
+  <path
+     id="path32"
+     d="M 124 124 L 124 241 L 390 241 L 523 241 L 893 241 L 893 124 L 124 124 z "
+     transform="translate(-10)" />
+  <path
+     d="m 807.58486,704.08685 -91.14154,85.324 Q 683.47723,749.65762 633.0585,701.17808 582.63978,652.69854 524.46433,599.37104 405.20463,712.81317 276.24905,791.35003 266.55314,779.71494 250.55489,762.7471 234.55664,745.77926 218.0736,729.29621 201.59055,712.81317 188.01628,702.14767 253.94846,668.21199 317.45666,622.64122 380.96486,577.07045 439.14033,524.71254 385.81282,478.17218 331.51573,433.571 277.21864,388.96982 227.76951,350.18619 l 80.47604,-70.78013 q 47.50995,36.84445 101.80704,79.02165 54.2971,42.1772 108.59419,87.74797 86.29359,-92.11113 148.3474,-196.82694 l 109.56377,43.63159 q -35.87486,59.14504 -79.50645,115.86611 -43.63159,56.72106 -92.11113,109.07897 61.08422,50.41872 113.92692,98.41347 52.84271,47.99475 88.71757,87.74797 z"
+     id="path44"
+     style="stroke-width:0.969591" />
+</svg>
