@@ -1,7 +1,8 @@
 # jyutcitzi-code
 The Python code used for generating the fonts and keyboards in [jyutcitzi-font](https://github.com/jyutcitzi/jyutcitzi-fonts) and [jyutcitzi-RIME](https://github.com/jyutcitzi/jyutcitzi-RIME) respectively.
 
-Note: make_jyutcit_phrases relies on ./rime/custom_list.txt
+
+## How to Reproduce the Jyutcitzi Fonts and Keyboards
 ```
 cd lang_input
 cd font
@@ -19,6 +20,7 @@ python make_lettered.py font > rime/jyutcitzi_font.lettered.dict.yaml
 python make_jyutcit_phrases.py web > jyutcitzi_web.jyutcit_phrases.dict.yaml
 python make_jyutcit_phrases.py font > jyutcitzi_font.jyutcit_phrases.dict.yaml
 ```
+Note: make_jyutcit_phrases relies on ./rime/custom_list.txt
 
-Prerequisites:
+## Requirements
 svgutils, FontForge
