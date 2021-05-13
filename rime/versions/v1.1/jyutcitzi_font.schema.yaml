@@ -1,0 +1,70 @@
+# Rime schema
+# encoding: utf-8
+
+schema:
+  schema_id: jyutcitzi_font
+  name: 粵切字 (夫干·天`·版)
+  version: "1"
+
+engine:
+  processors:
+    - ascii_composer
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - abc_segmentor
+    - punct_segmentor
+  translators:
+    - punct_translator
+    - script_translator
+
+
+translator:
+  dictionary: jyutcitzi_font
+  spelling_hints: 8
+  preedit_format:
+    - xform/([aeioumngptk])vv/$1⁴/ # aeioumngptk
+    - xform/([aeioumngptk])xx/$1⁵/
+    - xform/([aeioumngptk])qq/$1⁶/
+    - xform/([aeioumngptk])v/$1¹/
+    - xform/([aeioumngptk])x/$1²/
+    - xform/([aeioumngptk])q/$1³/
+
+punctuator:             # 設定符號表，這裏直接導入預設的
+  import_preset: default
+  half_shape: &symtable
+    "Q" : 〡
+    "W" : 〢
+    "E" : 〣
+    "A" : 〤
+    "S" : 〥
+    "D" : 〦
+    "R" : 々
+    "F" : ·
+  full_shape: *symtable
+
+speller:
+  alphabet: zyxwvutsrqponmlkjihgfedcba # RVXQ
+  delimiter: " '"
+  algebra:
+    - derive/([123456])//         # 忽略声调
+    - xform/1/v/                  # 陰平
+    - xform/4/vv/                 # 陽平
+    - xform/2/x/                  # 陰上
+    - xform/5/xx/                 # 陽上
+    - xform/3/q/                  # 陰去
+    - xform/6/qq/                 # 陽去
+    - derive/^jy?([aeiou])/y$1/   # 容錯 je -> ye, jyu -> yu
+    - derive/^jyu/ju/             # 容錯 jyu -> ju
+    - derive/yu/y/                # 容錯 jyu -> jy
+    - derive/eoi$/oey/            # 容錯
+    - derive/eoi$/eoy/            # 容錯
+    - derive/eo/oe/               # 容錯 eo/oe 不分
+    - derive/oe(ng|k)$/eo$1/      # 容錯
+    - derive/aa$/a/               # 容錯
+    - abbrev/^([a-z]).+$/$1/      # 首字母簡拼
+    - abbrev/^([a-z]{2}).+$/$1/   # 首2字母簡拼

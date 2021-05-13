@@ -1,0 +1,2589 @@
+# Rime dictionary
+# encoding: utf-8
+
+---
+name: jyutcitzi_font.lettered
+version: "1"
+sort: by_weight
+use_preset_vocabulary: true
+...
+〦〡〢	jaa6 jat1 dim2
+	jaa6 jat1 dim2
+〦〡〡〢〣〦〣	ji6 jat1 saam1 tai2 zung3 hap6 zing3
+	ji6 jat1 saam1 tai2 zung3 hap6 zing3
+〦〡	ji6 luk1
+	ji6 luk1
+〡〡	saam1 si1
+	saam1 si1
+〡〡	saam1 pi1
+	saam1 pi1
+〣〦〤	sei3 ji6 ling4
+	sei3 ji6 ling4
+〣〦〦	sei3 ji6 luk6
+	sei3 ji6 luk6
+〣〡〣	sei3 saam1 baat3
+	sei3 saam1 baat3
+〣々〦〣	sei3 sei3 ji6 sei3
+々	sei3 sei3 ji6 sei3
+〣〣〢	sei3 baat3 gau2
+	sei3 baat3 gau2
+𠄡〥々	ng5 ng5
+𠄡々	ng5 ng5
+𠄡〥〦〦〡	ng5 sap6 luk6 kei1
+𠄡	ng5 sap6 luk6 kei1
+𠄡〥〦〦〡	ng5 aa6 luk6 kei1
+𠄡	ng5 aa6 luk6 kei1
+𠄡〥〡〢	ng5 pi1 zai2
+𠄡	ng5 pi1 zai2
+5仔	ng5 pi1 zai2
+〡〦	luk1 cat6
+	luk1 cat6
+〦〣〢	luk6 baat3 gau2
+	luk6 baat3 gau2
+〡〦〡	cat1 sap6 jat1
+	cat1 sap6 jat1
+〡々〡	cat1 cat1 cat1
+々々	cat1 cat1 cat1
+〣々〤	baat3 baat3 paai4
+々	baat3 baat3 paai4
+〢〡	gau2 cat1
+	gau2 cat1
+〡〡〤	gau1 ap1 paa4
+	gau1 ap1 paa4
+〡〤	ei1 ling4
+	ei1 ling4
+〡〡〢	ei1 fo1 zi2
+	ei1 fo1 zi2
+紙	ei1 fo1 zi2
+〡々〡	ei1 ei1 gaau1
+々	ei1 ei1 gaau1
+膠	ei1 ei1 gaau1
+〡々〣	ei1 ei1 zai3
+々	ei1 ei1 zai3
+制	ei1 ei1 zai3
+〡〡〡	ei1 bi1 si1
+	ei1 bi1 si1
+〡〡〡	ei1 bi1 gaau1
+	ei1 bi1 gaau1
+膠	ei1 bi1 gaau1
+〡〡〣	ei1 bi1 zai3
+	ei1 bi1 zai3
+制	ei1 bi1 zai3
+〡〡	ei1 si1
+	ei1 si1
+〦〡	aa6 kaan1
+	aa6 kaan1
+〡〢	ei1 si2
+	ei1 si2
+〡〡〡	ei1 si1 ou1
+	ei1 si1 ou1
+〡〢	ei1 zeon2
+	ei1 zeon2
+〡〡	ei1 kei1
+	ei1 kei1
+〡〡	o1 bek1
+	o1 bek1
+〡	ot1
+	ot1
+〦〡〤	o6 toeng1 nik4
+	o6 toeng1 nik4
+〤	am4
+	am4
+〡〡	ei1 met1
+	ei1 met1
+〡〤〤	en1 ni4 wei4
+	en1 ni4 wei4
+〡〡	en1 gei1
+	en1 gei1
+機	en1 gei1
+〡〡	ei1 ou1
+	ei1 ou1
+〡	ep1
+	ep1
+〡〢	ep1 si2
+	ep1 si2
+〡〢	aa1 ki2
+	aa1 ki2
+〡〢	aak1 ki2
+	aak1 ki2
+〡〢	aa1 ki2
+	aa1 ki2
+〡〢	aak1 ki2
+	aak1 ki2
+〡〤	aa1 giu4
+	aa1 giu4
+〣〡〤	aa3 saai1 man4
+	aa3 saai1 man4
+〣〡〢	aa3 saai1 man2
+	aa3 saai1 man2
+〡〡〡	ei1 ti1 em1
+	ei1 ti1 em1
+〡〢	aau1 di2
+	aau1 di2
+〡〤	aan1 ti4
+	aan1 ti4
+〡〡	ei1 wi1
+	ei1 wi1
+〡〡〥〡	ei1 wi1 neoi5 jau1
+	ei1 wi1 neoi5 jau1
+女優	ei1 wi1 neoi5 jau1
+〡〣	ei1 fo3
+	ei1 fo3
+貨	ei1 fo3
+〡〡	ei1 kaa1
+	ei1 kaa1
+咖	ei1 kaa1
+〡〣	ei1 gaa3
+	ei1 gaa3
+咖	ei1 gaa3
+〡〢	ei1 pin2
+	ei1 pin2
+片	ei1 pin2
+〡〡〤	ei1 hyun1 ji4
+	ei1 hyun1 ji4
+圈兒	ei1 hyun1 ji4
+〡〢	ei1 zai2
+	ei1 zai2
+仔	ei1 zai2
+〡〦	ei1 zaam6
+	ei1 zaam6
+站	ei1 zaam6
+〡〢	ei1 zeon2
+	ei1 zeon2
+準	ei1 zeon2
+〡〦〣	ei1 zi6 bok3
+	ei1 zi6 bok3
+字膊	ei1 zi6 bok3
+〡〡〡	bei1 bi1 fet1
+	bei1 bi1 fet1
+〡〡	bek1 ap1
+	bek1 ap1
+〡	bo1
+	bo1
+〡	ben1
+	ben1
+〡	beng1
+	beng1
+〡〢	ben1 zai2
+	ben1 zai2
+仔	ben1 zai2
+〤〡〡	baang4 jat1 seng1
+	baang4 jat1 seng1
+一聲	baang4 jat1 seng1
+〡〢	ben1 naa2
+	ben1 naa2
+〡	baa1
+	baa1
+〡〡	baa1 kuk1
+	baa1 kuk1
+〡〡	baa1 king1
+	baa1 king1
+〡々	bi1 bi1
+々	bi1 bi1
+〡々	bit1 bit1
+々	bit1 bit1
+〤〡	bi4 bi1
+々	bi4 bi1
+〡々〡	bi1 bi1 ei1
+々	bi1 bi1 ei1
+〡々〡	bi1 bi1 kiu1
+々	bi1 bi1 kiu1
+〤〡〡	bi4 bi1 ce1
+々	bi4 bi1 ce1
+車	bi4 bi1 ce1
+〤〡〤	bi4 bi1 cong4
+々	bi4 bi1 cong4
+床	bi4 bi1 cong4
+〡々〢	bi1 bi1 daan2
+々	bi1 bi1 daan2
+彈	bi1 bi1 daan2
+〤〡〣	bi4 bi1 dang3
+々	bi4 bi1 dang3
+櫈	bi4 bi1 dang3
+〤〡〡	bi4 bi1 gwat1
+々	bi4 bi1 gwat1
+骨	bi4 bi1 gwat1
+〤〡〢	bi4 bi1 waa2
+々	bi4 bi1 waa2
+話	bi4 bi1 waa2
+〡々〡	bi1 bi1 gei1
+々	bi1 bi1 gei1
+機	bi1 bi1 gei1
+〤〡〡	bi4 bi1 saam1
+々	bi4 bi1 saam1
+衫	bi4 bi1 saam1
+〤〡〢	bi4 bi1 zai2
+々	bi4 bi1 zai2
+仔	bi4 bi1 zai2
+〡	bit1
+	bit1
+〦〡	beu6 hoi1
+	beu6 hoi1
+開	beu6 hoi1
+〡〢	ben1 si2
+	ben1 si2
+〡〢	ben1 si2
+	ben1 si2
+屎	ben1 si2
+〡〢	ben1 si2
+	ben1 si2
+士	ben1 si2
+〤々	bet4 bet4
+々	bet4 bet4
+〦々	bet6 bet6
+々	bet6 bet6
+〦	baai6
+	baai6
+〤々〤々	bi4 bi4 baa4 baa4
+々々	bi4 bi4 baa4 baa4
+〤〡〤々	bi4 bi1 baa4 baa4
+々々	bi4 bi1 baa4 baa4
+〡々〡々	bi1 bi1 baa1 baa1
+々々	bi1 bi1 baa1 baa1
+〡〣	bi1 bu3
+	bi1 bu3
+〡〦	bi1 bu6
+	bi1 bu6
+〡〣〡〣	bi1 bu3 bi1 bu3
+	bi1 bu3 bi1 bu3
+〡〦〡〦	bi1 bu6 bi1 bu6
+	bi1 bu6 bi1 bu6
+〡〣〡	bi1 bu3 ce1
+	bi1 bu3 ce1
+車	bi1 bu3 ce1
+〡	bit1
+	bit1
+〡〡	bik1 fo1
+	bik1 fo1
+〤〤〤〤	bi4 li4 baa4 laa4
+	bi4 li4 baa4 laa4
+〤〡〤〤	bi4 li1 baa4 laa4
+	bi4 li1 baa4 laa4
+〡〡〡〡	bi1 li1 baa1 laa1
+	bi1 li1 baa1 laa1
+〤〡〤〤	bi4 li1 bek4 lek4
+	bi4 li1 bek4 lek4
+〡〤	bing1 gou4
+	bing1 gou4
+〦〡	baai6 o1
+	baai6 o1
+〡	bit1
+	bit1
+〡	bot1
+	bot1
+〡〡	bot1 gem1
+	bot1 gem1
+〡〡〡	bo1 di1 cek1
+	bo1 di1 cek1
+〡〡〦〡〤	bo1 di1 mat6 saa1 ci4
+	bo1 di1 mat6 saa1 ci4
+〤〡	bu4 zaak1
+	bu4 zaak1
+〡	buk1
+	buk1
+〡〡〣	buk1 gei1 piu3
+	buk1 gei1 piu3
+機票	buk1 gei1 piu3
+〡〢〣	buk1 zau2 dim3
+	buk1 zau2 dim3
+酒店	buk1 zau2 dim3
+〡〢	buk1 wai2
+	buk1 wai2
+位	buk1 wai2
+〡𠄡〤〢〢	buk1 m4 dou2 wai2
+𠄡	buk1 m4 dou2 wai2
+𠄡到位	buk1 m4 dou2 wai2
+〡	but1
+	but1
+〡〡	but1 gei1
+	but1 gei1
+機	but1 gei1
+〦〡	pou6 tit1
+	pou6 tit1
+〡〢〤	bok1 sing2 jau4
+	bok1 sing2 jau4
+油	bok1 sing2 jau4
+〡	boi1
+	boi1
+〡	baa1
+	baa1
+〡〢	bi1 fing2
+	bi1 fing2
+〡〡	bi1 ti1
+	bi1 ti1
+〡〤	bat1 zik4
+	bat1 zik4
+〦〡	pou6 fei1
+	pou6 fei1
+〦〡	bou6 fei1
+	bou6 fei1
+〡	bak1
+	bak1
+〡〤	bu1 li4
+	bu1 li4
+〡	baai1
+	baai1
+〤〥〣〡	bu4 ni5 aa3 mo1
+	bu4 ni5 aa3 mo1
+你麼	bu4 ni5 aa3 mo1
+〡	bai1
+	bai1
+〡〡	bi1 ciu1
+	bi1 ciu1
+超	bi1 ciu1
+〡〤〡〡	bi1 jing4 ciu1 sing1
+	bi1 jing4 ciu1 sing1
+型超聲	bi1 jing4 ciu1 sing1
+〡〢	bi1 zai2
+	bi1 zai2
+仔	bi1 zai2
+〡〦	bi1 zaam6
+	bi1 zaam6
+站	bi1 zaam6
+〡〦	si1 luk6
+	si1 luk6
+〡〡	si1 naai1
+	si1 naai1
+〦〡	kat6 fei1
+	kat6 fei1
+〦〡	kat6 fei1
+	kat6 fei1
+	kat6 fei1
+〡	kik1
+	kik1
+〡	ko1
+	ko1
+〡〦〡	ko1 baak6 ce1
+	ko1 baak6 ce1
+白車	ko1 baak6 ce1
+〡〡	ko1 gei1
+	ko1 gei1
+機	ko1 gei1
+〡〤	ko1 toi4
+	ko1 toi4
+台	ko1 toi4
+〡〡	ko1 zung1
+	ko1 zung1
+鐘	ko1 zung1
+〡	kem1
+	kem1
+〡	kem1
+	kem1
+〡々〢	kem1 kem1 dei2
+々	kem1 kem1 dei2
+倛	kem1 kem1 dei2
+〦〡〤〤	gaam6 cou1 li4 jaa4
+	gaam6 cou1 li4 jaa4
+〦〡〤〤	kam6 cou1 li4 jaa4
+	kam6 cou1 li4 jaa4
+〡〢	kem1 daai2
+	kem1 daai2
+帶	kem1 daai2
+〡〢	kem1 lin2
+	kem1 lin2
+鍊	kem1 lin2
+〡〢	kem1 lin2
+	kem1 lin2
+鏈	kem1 lin2
+〡〢	ken1 saa2
+	ken1 saa2
+〡〤	ken1 saa4
+	ken1 saa4
+〡	kep1
+	kep1
+〦	kep6
+	kep6
+〡〢	kep1 mou2
+	kep1 mou2
+帽	kep1 mou2
+〡〢	kep1 seoi2
+	kep1 seoi2
+水	kep1 seoi2
+〡〤	ke1 aa4
+	ke1 aa4
+〡〤	ke1 wi4
+	ke1 wi4
+〡〢	kei1 si2
+	kei1 si2
+〡〤	ke1 syu4
+	ke1 syu4
+〡〤	ke1 sou4
+	ke1 sou4
+〡〤〤	ket1 taa4 lok4
+	ket1 taa4 lok4
+〡〤〤	ket1 taa4 lok4
+	ket1 taa4 lok4
+〡々	si1 si1
+々	si1 si1
+〡々〡〡	si1 si1 ti1 wi1
+々	si1 si1 ti1 wi1
+〡	seot1
+	seot1
+〡〤	caa1 caa4
+々	caa1 caa4
+〡〢	cok1 fan2
+	cok1 fan2
+粉	cok1 fan2
+〡〦〦	cek1 lin6 zi6
+	cek1 lin6 zi6
+〡〦	caa1 zi6
+	caa1 zi6
+〡	cip1
+	cip1
+〡〡	cip1 zing1
+	cip1 zing1
+精	cip1 zing1
+〡〥	cip1 je5
+	cip1 je5
+野	cip1 je5
+〡	cek1
+	cek1
+〡〡	cek1 jin1
+	cek1 jin1
+〡〡	cek1 au1
+	cek1 au1
+〡〥	cek1 haa5
+	cek1 haa5
+下	cek1 haa5
+〡〥	cek1 haa5
+	cek1 haa5
+〥	cek1 haa5
+〡	kem1
+	kem1
+〡〡	si1 hing1
+	si1 hing1
+〡	cing1
+	cing1
+〦〡〤	ci6 waa1 waa4
+々	ci6 waa1 waa4
+〦〡〤	zi6 waa1 waa4
+々	zi6 waa1 waa4
+〣	cok3
+	cok3
+〣〡	cok3 cit1
+	cok3 cit1
+〣〢	cok3 joeng2
+	cok3 joeng2
+樣	cok3 joeng2
+〡	kot1
+	kot1
+〦〡〡	cap6 jat1 seng1
+	cap6 jat1 seng1
+一聲	cap6 jat1 seng1
+〢	coe2
+	coe2
+〡〡〡	si1 aai1 bi1
+	si1 aai1 bi1
+〡〡〡	si1 aai1 di1
+	si1 aai1 di1
+〤〤	cik4 caat4
+	cik4 caat4
+〤〤	cik4 caak4
+	cik4 caak4
+〡〢	si1 fou2
+	si1 fou2
+〡	kem1
+	kem1
+〡〢〢	kem1 bou2 him2
+	kem1 bou2 him2
+保險	kem1 bou2 him2
+〡〣	kem1 seoi3
+	kem1 seoi3
+稅	kem1 seoi3
+〡	kik1
+	kik1
+〡〦〣	kik1 jap6 heoi3
+	kik1 jap6 heoi3
+入去	kik1 jap6 heoi3
+〦〤〤	kat6 lou4 si4
+	kat6 lou4 si4
+〡〡〡〤	si1 eu1 e1 si4
+	si1 eu1 e1 si4
+〡〢〣	ci1 lan2 sin3
+	ci1 lan2 sin3
+〡	kap1
+	kap1
+〡〡	si1 em1
+	si1 em1
+〡	kuk1
+	kuk1
+〡	kam1
+	kam1
+〦〡	kam6 maan1
+	kam6 maan1
+〡〤	kam1 men4
+	kam1 men4
+〡〤	kom1 men4
+	kom1 men4
+〡〡	kam1 man1
+	kam1 man1
+〡	kon1
+	kon1
+〡〢	kon1 si2
+	kon1 si2
+〡〤	kon1 tek4
+	kon1 tek4
+〡	ku1
+	ku1
+〡〡	gu1 lei1
+	gu1 lei1
+〡	kop1
+	kop1
+〡〤〦〡	co1 si4 pat6 lai1
+	co1 si4 pat6 lai1
+〡〢	kaan1 taa2
+	kaan1 taa2
+〡〤	kiu1 pon4
+	kiu1 pon4
+〡〤	ko1 si4
+	ko1 si4
+〡	kim1
+	kim1
+〡	kiu1
+	kiu1
+〡〡	kiu1 kaat1
+	kiu1 kaat1
+咭	kiu1 kaat1
+〡〡	kiu1 kaat1
+	kiu1 kaat1
+卡	kiu1 kaat1
+〡	kau1
+	kau1
+〡〢	ku1 seon2
+	ku1 seon2
+〡	kat1
+	kat1
+〡	kiu1
+	kiu1
+〡々	kiu1 kiu1
+々	kiu1 kiu1
+〡〢	kiu1 ti2
+	kiu1 ti2
+〡〢	kat1 taa2
+	kat1 taa2
+〡〣	kat1 sin3
+	kat1 sin3
+線	kat1 sin3
+〡〡	si1 wi1
+	si1 wi1
+〡〤	saai1 baa4
+	saai1 baa4
+〡〦	si1 daap6
+	si1 daap6
+疊	si1 daap6
+〡〤	si1 pun4
+	si1 pun4
+盤	si1 pun4
+〡〥	si1 ngaan5
+	si1 ngaan5
+眼	si1 ngaan5
+〡	di1
+	di1
+〡〢	daa1 ling2
+	daa1 ling2
+〡〤	dei1 taa4
+	dei1 taa4
+〡〡	dei1 wan1
+	dei1 wan1
+〡〡〢	di1 si1 gau2
+	di1 si1 gau2
+〡々	di1 di1
+々	di1 di1
+〡々	dit1 dit1
+々	dit1 dit1
+〢	di2
+	di2
+〦〡	de6 foe1
+	de6 foe1
+〦	di6
+	di6
+〡	dem1
+	dem1
+〡〢	dem1 mou2
+	dem1 mou2
+〡	de1
+	de1
+〤々〤々	di4 di4 de4 de4
+々々	di4 di4 de4 de4
+〡〤〤	dit1 si4 kou4
+	dit1 si4 kou4
+〡〡	di1 zei1
+	di1 zei1
+〡〡〡	di1 en1 ei1
+	di1 en1 ei1
+〡〡〡〣〦	di1 en1 ei1 gaam3 ding6
+	di1 en1 ei1 gaam3 ding6
+鑒定	di1 en1 ei1 gaam3 ding6
+〡	du1
+	du1
+〡	daang1
+	daang1
+〡	daan1
+	daan1
+〡〡	daang1 lou1
+	daang1 lou1
+〡〡	daan1 lou1
+	daan1 lou1
+〡〡	daan1 gei1
+	daan1 gei1
+機	daan1 gei1
+〡〥	du1 je5
+	du1 je5
+野	du1 je5
+〡〡	di1 kiu1
+	di1 kiu1
+〡〡	di1 ti1
+	di1 ti1
+〡	dap1
+	dap1
+〡	dat1
+	dat1
+〡〤	diu1 si4
+	diu1 si4
+時	diu1 si4
+〢	dam2
+	dam2
+〣	dam3
+	dam3
+〦	dam6
+	dam6
+〢	dam2
+	dam2
+〣〡	dam3 gai1
+	dam3 gai1
+雞	dam3 gai1
+〡	dap1
+	dap1
+〣	daap3
+	daap3
+〡〡	dap1 ce1
+	dap1 ce1
+車	dap1 ce1
+〦	doe6
+	doe6
+〦〤	doe6 pei4
+	doe6 pei4
+皮	doe6 pei4
+〡〡〡	di1 wi1 di1
+	di1 wi1 di1
+〡〤	di1 coeng4
+	di1 coeng4
+場	di1 coeng4
+〡	e1
+	e1
+〤	e4
+	e4
+〦〡	ji6 kon1
+	ji6 kon1
+〤	em4
+	em4
+〡〡	ji1 meu1
+	ji1 meu1
+〡〡〤	ji1 me1 lou4
+	ji1 me1 lou4
+〦〡〤	ji6 mou1 zi4
+	ji6 mou1 zi4
+〦〡〤	i6 mo1 zi4
+	i6 mo1 zi4
+〦〡〤	i6 mou1 zi4
+	i6 mou1 zi4
+〦〡〤	ji6 mo1 zi4
+	ji6 mo1 zi4
+〡〢	en1 zin2
+	en1 zin2
+〡〡	ji1 ou1
+	ji1 ou1
+〡	e1
+	e1
+〦	e6
+	e6
+〤	e4
+	e4
+〡〡〥〡〡	e1 dou1 mou5 dak1 e1
+	e1 dou1 mou5 dak1 e1
+都冇得	e1 dou1 mou5 dak1 e1
+〡〡〥〡〡	nge1 dou1 mou5 dak1 nge1
+	nge1 dou1 mou5 dak1 nge1
+都冇得	nge1 dou1 mou5 dak1 nge1
+〡〡〡〡	ji1 wi1 ei1 gaau1
+	ji1 wi1 ei1 gaau1
+膠	ji1 wi1 ei1 gaau1
+〡〤	ji1 fan4
+	ji1 fan4
+〡〤	i1 fan4
+	i1 fan4
+〦〤	ik6 si4
+	ik6 si4
+〡〡〡	ji1 cung1 si1
+	ji1 cung1 si1
+沖	ji1 cung1 si1
+〡〢	ji1 zai2
+	ji1 zai2
+仔	ji1 zai2
+〡〢	fei1 si2
+	fei1 si2
+〡〡	fek1 cek1
+	fek1 cek1
+〡	feu1
+	feu1
+〡	fik1
+	fik1
+〦	fang6
+	fang6
+〡〢	fen1 si2
+	fen1 si2
+〡〢	fen1 si2
+	fen1 si2
+屎	fen1 si2
+〡	fek1
+	fek1
+〡〢	fek1 si2
+	fek1 si2
+〡〢〡	fek1 si2 gei1
+	fek1 si2 gei1
+機	fek1 si2 gei1
+〡	fen1
+	fen1
+〤	fe4
+	fe4
+〤	fe4
+	fe4
+〡	fiu1
+	fiu1
+〦	fet6
+	fet6
+〡〤〡〤	e1 fu4 e1 fu4
+	e1 fu4 e1 fu4
+〡〤	fik1 gaa4
+	fik1 gaa4
+〦	fik6
+	fik6
+〡〢	faai1 lou2
+	faai1 lou2
+〤〡〤〤	fi4 li1 fe4 le4
+	fi4 li1 fe4 le4
+〤〡〤〤	fi4 li1 fek4 lek4
+	fi4 li1 fek4 lek4
+〦〣	fing6 baa3
+	fing6 baa3
+霸	fing6 baa3
+〡	fem1
+	fem1
+〡	fit1
+	fit1
+〡〣〦〢	fit1 dou3 lau6 jau2
+	fit1 dou3 lau6 jau2
+到漏油	fit1 dou3 lau6 jau2
+〦	fik6
+	fik6
+〡〤	fo1 lou4
+	fo1 lou4
+〦	fo6
+	fo6
+〡	fom1
+	fom1
+〡	fau1
+	fau1
+〡〡〦	fau1 ceot1 guk6
+	fau1 ceot1 guk6
+出局	fau1 ceot1 guk6
+〡〡〢	fi1 saai1 si2
+	fi1 saai1 si2
+〡〡〢	fi1 saai1 si2
+	fi1 saai1 si2
+士	fi1 saai1 si2
+〡	fen1
+	fen1
+〡〣〢〡	fen1 gwo3 daa2 ben1
+	fen1 gwo3 daa2 ben1
+過打	fen1 gwo3 daa2 ben1
+〡〣〣〡	fen1 gwo3 gaap3 ben1
+	fen1 gwo3 gaap3 ben1
+過夾	fen1 gwo3 gaap3 ben1
+〣	fu3
+	fu3
+〡〤	fan1 seon4
+	fan1 seon4
+〡〤	fang1 seon4
+	fang1 seon4
+〡〢	fiu1 si2
+	fiu1 si2
+〡	gek1
+	gek1
+〡	gem1
+	gem1
+〡	gep1
+	gep1
+〡	gap1
+	gap1
+〤〢〡	gep4 gep2 seng1
+々	gep4 gep2 seng1
+聲	gep4 gep2 seng1
+〡〢	ge1 si2
+	ge1 si2
+〡〢〤	ge1 si2 lou4
+	ge1 si2 lou4
+爐	ge1 si2 lou4
+〡	gik1
+	gik1
+〣	ge3
+	ge3
+〡	zeu1
+	zeu1
+〡〤〢	zeu1 tau4 zoek2
+	zeu1 tau4 zoek2
+頭雀	zeu1 tau4 zoek2
+〡〢	zok1 gaa2
+	zok1 gaa2
+〡	get1
+	get1
+〡〢	get1 dou2
+	get1 dou2
+到	get1 dou2
+〡々	zi1 zi1
+々	zi1 zi1
+〡	gik1
+	gik1
+〡	gip1
+	gip1
+〤〢〡	geot4 geot2 seng1
+々	geot4 geot2 seng1
+聲	geot4 geot2 seng1
+〡〤	gu1 gou4
+	gu1 gou4
+〡〤〦	gu1 gou4 bei6
+	gu1 gou4 bei6
+鼻	gu1 gou4 bei6
+〡〡〡〤	zi1 pi1 e1 si4
+	zi1 pi1 e1 si4
+〡	gwem1
+	gwem1
+〡〡	gwaan1 lung1
+	gwaan1 lung1
+〡〡	gwaang1 lung1
+	gwaang1 lung1
+〡	gwup1
+	gwup1
+〡〣	gaat1 cau3
+	gaat1 cau3
+臭	gaat1 cau3
+〦	gap6
+	gap6
+〤	goe4
+	goe4
+〡〢	zim1 fong2
+	zim1 fong2
+房	zim1 fong2
+〡〢	zi1 dim2
+	zi1 dim2
+點	zi1 dim2
+〡〤〣	zi1 jin4 fu3
+	zi1 jin4 fu3
+弦褲	zi1 jin4 fu3
+〡	hek1
+	hek1
+〡〢	hek1 kaa2
+	hek1 kaa2
+〣	he3
+	he3
+〡	ho1
+	ho1
+〡	hem1
+	hem1
+〡〡	heng1 gei1
+	heng1 gei1
+機	heng1 gei1
+〡〢	hep1 pi2
+	hep1 pi2
+〡𠄡〤〡〢〣	hep1 m4 hep1 pi2 aa3
+𠄡	hep1 m4 hep1 pi2 aa3
+𠄡〣	hep1 m4 hep1 pi2 aa3
+〡〡	haat1 di1
+	haat1 di1
+〡〤	hei1 taa4
+	hei1 taa4
+〣	he3
+	he3
+〣	he3
+	he3
+〤〡〤々	hi4 hi1 hoe4 hoe4
+々々	hi4 hi1 hoe4 hoe4
+〡々	hi1 hi1
+々	hi1 hi1
+〡〣	haa1 lou3
+	haa1 lou3
+〡〢	haa1 lou2
+	haa1 lou2
+〡	haai1
+	haai1
+〡〡	haai1 faai1
+	haai1 faai1
+〡	haai1
+	haai1
+〡〡	haai1 lai1
+	haai1 lai1
+〡〡	haai1 ti1
+	haai1 ti1
+〡〡	haai1 tek1
+	haai1 tek1
+〡〦〢	haai1 daai6 zo2
+	haai1 daai6 zo2
+大徂	haai1 daai6 zo2
+〡〡〢	haai1 kaa1 si2
+	haai1 kaa1 si2
+卡士	haai1 kaa1 si2
+〡々	haai1 haai1
+々	haai1 haai1
+〡〢	hin1 si2
+	hin1 si2
+〡	hit1
+	hit1
+〡〢	hu1 di2
+	hu1 di2
+〡〢	hau1 si2
+	hau1 si2
+〤〢〡	ham4 ham2 seng1
+々	ham4 ham2 seng1
+聲	ham4 ham2 seng1
+〤	hoe4
+	hoe4
+〡	heot1
+	heot1
+〡〣〢	ei1 cyu3 gu2
+	ei1 cyu3 gu2
+股	ei1 cyu3 gu2
+〡〣〦	ei1 cyu3 maan6
+	ei1 cyu3 maan6
+漫	ei1 cyu3 maan6
+〡〡〡	jit1 ci1 baan1
+	jit1 ci1 baan1
+〡〡〡	it1 ci1 baan1
+	it1 ci1 baan1
+〡〡〡	jit1 zi1 baan1
+	jit1 zi1 baan1
+〡〢	aai1 kon2
+	aai1 kon2
+〡〡	aai1 di1
+	aai1 di1
+〡〡々	aai1 di1 di1
+々	aai1 di1 di1
+〦〡〤	aai6 di1 jaa4
+	aai6 di1 jaa4
+〦〡〤	aai6 di1 aa4
+	aai6 di1 aa4
+〡々	aai1 aai1
+々	aai1 aai1
+〡	in1
+	in1
+〡	jin1
+	jin1
+〡〤	in1 cyu4
+	in1 cyu4
+〡〡〦	in1 caa1 zi6
+	in1 caa1 zi6
+〡〢	in1 toeng2
+	in1 toeng2
+〡〢	jin1 toeng2
+	jin1 toeng2
+〡〡	aai1 pi1
+	aai1 pi1
+〡〡	aai1 kiu1
+	aai1 kiu1
+〡〡〤	aai1 kiu1 tai4
+	aai1 kiu1 tai4
+題	aai1 kiu1 tai4
+〦〡〤	ji6 sou1 sou4
+々	ji6 sou1 sou4
+〡〡	aai1 ti1
+	aai1 ti1
+〡〡〢	aai1 ti1 gau2
+	aai1 ti1 gau2
+狗	aai1 ti1 gau2
+〡〡〢	aai1 gai1 bou2
+	aai1 gai1 bou2
+雞寶	aai1 gai1 bou2
+〡	zei1
+	zei1
+〡〦	zek1 kit6
+	zek1 kit6
+〡〦	zek1 ket6
+	zek1 ket6
+〡	zem1
+	zem1
+〡〥	zem1 je5
+	zem1 je5
+野	zem1 je5
+〡	zaa1
+	zaa1
+〡〢	zip1 zai2
+	zip1 zai2
+仔	zip1 zai2
+〡	zoe1
+	zoe1
+〤〡	zoe4 zoe1
+々	zoe4 zoe1
+〡々	zoe1 zoe1
+々	zoe1 zoe1
+〡〦	zoe1 zyu6
+	zoe1 zyu6
+住	zoe1 zyu6
+〡〤	zek1 sou4
+	zek1 sou4
+〤	zip4
+	zip4
+〡々	zei1 zei1
+々	zei1 zei1
+〡	zoi1
+	zoi1
+〡	zong1
+	zong1
+〡〢	zuk1 kaa2
+	zuk1 kaa2
+〡	zu1
+	zu1
+〡〦〤	zu1 pat6 si4
+	zu1 pat6 si4
+〡〤	zei1 tou4
+	zei1 tou4
+圖	zei1 tou4
+〡	kei1
+	kei1
+〡	kaai1
+	kaai1
+〡〢	kaai1 zi2
+	kaai1 zi2
+子	kaai1 zi2
+〡〡	kei1 bi1
+	kei1 bi1
+〡〡	kei1 kaa1
+	kei1 kaa1
+〡	ke1
+	ke1
+〡	kip1
+	kip1
+〡〢	kip1 paa2
+	kip1 paa2
+〡〦	kip1 zyu6
+	kip1 zyu6
+住	kip1 zyu6
+〤〡	keu4 leu1
+	keu4 leu1
+〤	kem4
+	kem4
+〥	kem5
+	kem5
+〡々〢	kem1 kem1 dei2
+々	kem1 kem1 dei2
+倛	kem1 kem1 dei2
+〤	keng4
+	keng4
+〡〢	kiu1 laa2
+	kiu1 laa2
+〡〤	kiu1 laa4
+	kiu1 laa4
+〡〢	ki1 lou2
+	ki1 lou2
+〡〢	kei1 lou2
+	kei1 lou2
+〡	king1
+	king1
+〡〡	kei1 ou1
+	kei1 ou1
+〡〡〡	kei1 ou1 eu1
+	kei1 ou1 eu1
+〡〡	kei1 baa1
+	kei1 baa1
+巴	kei1 baa1
+〡〤	kei1 coeng4
+	kei1 coeng4
+場	kei1 coeng4
+〡〢	kei1 fong2
+	kei1 fong2
+房	kei1 fong2
+〡〢	kei1 fan2
+	kei1 fan2
+粉	kei1 fan2
+〡〡	kei1 go1
+	kei1 go1
+歌	kei1 go1
+〡〡	kei1 gam1
+	kei1 gam1
+金	kei1 gam1
+〡〡	ke1 gam1
+	ke1 gam1
+金	ke1 gam1
+〡〣	kei1 haak3
+	kei1 haak3
+客	kei1 haak3
+〡〡	kei1 syu1
+	kei1 syu1
+書	kei1 syu1
+〡〡〦	kei1 taa1 ming6
+	kei1 taa1 ming6
+他命	kei1 taa1 ming6
+〡〣	kei1 aat3
+	kei1 aat3
+壓	kei1 aat3
+〡〢	kei1 zai2
+	kei1 zai2
+仔	kei1 zai2
+〡	eu1
+	eu1
+〡	lep1
+	lep1
+〡〢	lei1 bou2
+	lei1 bou2
+〡〡	lek1 gei1
+	lek1 gei1
+機	lek1 gei1
+〡〡	lik1 gei1
+	lik1 gei1
+機	lik1 gei1
+〥々〤	laai5 laai5 haan4
+々	laai5 laai5 haan4
+閒	laai5 laai5 haan4
+〡〣	len1 sin3
+	len1 sin3
+線	len1 sin3
+〡〢	lei1 saa2
+	lei1 saa2
+〦〦〡	laa6 sat6 dei1
+	laa6 sat6 dei1
+〦〡	laat6 tei1
+	laat6 tei1
+〦〡	lat6 tei1
+	lat6 tei1
+〡	le1
+	le1
+〡〤	lik1 ging4
+	lik1 ging4
+〡〤	le1 gou4
+	le1 gou4
+〡〤	lek1 gou4
+	lek1 gou4
+〢	lem2
+	lem2
+〡〤	le1 si4
+	le1 si4
+〡〢	le1 fou2
+	le1 fou2
+〡〢	laai1 san2
+	laai1 san2
+〡	lai1
+	lai1
+〡〢	lai1 ki2
+	lai1 ki2
+〡	lim1
+	lim1
+〡〤	lim1 mit4
+	lim1 mit4
+〡	lin1
+	lin1
+〡〤	lin1 tau4
+	lin1 tau4
+頭	lin1 tau4
+〡	laai1
+	laai1
+〤〤	lau4 ming4
+	lau4 ming4
+〡	lou1
+	lou1
+〡〡	long1 di1
+	long1 di1
+〡	luk1
+	luk1
+〡〢	lu1 faa2
+	lu1 faa2
+〣	lu3
+	lu3
+〡〡	lam1 sam1
+	lam1 sam1
+〡	leon1
+	leon1
+〡〢	lan1 cyu2
+	lan1 cyu2
+〡〤	lan1 cyu4
+	lan1 cyu4
+〡	em1
+	em1
+〡	mit1
+	mit1
+〡〢	met1 zai2
+	met1 zai2
+仔	met1 zai2
+〡	men1
+	men1
+〡	maak1
+	maak1
+〡〡〡	maak1 ceot1 gaai1
+	maak1 ceot1 gaai1
+出街	maak1 ceot1 gaai1
+〡〡	maak1 dai1
+	maak1 dai1
+低	maak1 dai1
+〡〡〡	maak1 go1 lau1
+	maak1 go1 lau1
+哥褸	maak1 go1 lau1
+〡〦	maak1 sat6
+	maak1 sat6
+實	maak1 sat6
+〡〦	maak1 zyu6
+	maak1 zyu6
+住	maak1 zyu6
+〡〢	met1 si2
+	met1 si2
+〡	mek1
+	mek1
+〡	mep1
+	mep1
+〡〡〡	em1 bi1 ei1
+	em1 bi1 ei1
+〡	mit1
+	mit1
+〡〢	mi1 mou2
+	mi1 mou2
+〡〢	men1 niu2
+	men1 niu2
+〡	mek1
+	mek1
+〡	mep1
+	mep1
+〡	maai1
+	maai1
+〡〤	mit1 si4
+	mit1 si4
+〡〤	mi1 si4
+	mi1 si4
+〡〤	mit1 si4
+	mit1 si4
+〡〡	em1 kei1
+	em1 kei1
+〡〡〡	em1 kei1 ce1
+	em1 kei1 ce1
+車	em1 kei1 ce1
+〡〡〡	em1 kei1 mui1
+	em1 kei1 mui1
+妹	em1 kei1 mui1
+〡〡〢	em1 kei1 meng2
+	em1 kei1 meng2
+名	em1 kei1 meng2
+〡〡〤	em1 kei1 tau4
+	em1 kei1 tau4
+頭	em1 kei1 tau4
+〡〡〢	em1 kei1 zai2
+	em1 kei1 zai2
+仔	em1 kei1 zai2
+〡	miu1
+	miu1
+〡〤	mok1 kaa4
+	mok1 kaa4
+〡	mok1
+	mok1
+〡〤	mo1 dou4
+	mo1 dou4
+〡〤	mou1 dem4
+	mou1 dem4
+〡〣〡〣	mou1 laa3 mou1 laa3
+	mou1 laa3 mou1 laa3
+〡〡〡〤	mou1 laa1 mou1 laa4
+	mou1 laa1 mou1 laa4
+〡	mon1
+	mon1
+〡〣	mon1 tip3
+	mon1 tip3
+貼	mon1 tip3
+〡	mut1
+	mut1
+〡〢	mau1 si2
+	mau1 si2
+〡〢	maau1 si2
+	maau1 si2
+〡〡〡	em1 pi1 fi1
+	em1 pi1 fi1
+〡〡〡	em1 pi1 saam1
+	em1 pi1 saam1
+〡々	mam1 mam1
+々	mam1 mam1
+〡〡	em1 wi1
+	em1 wi1
+〡〣	em1 dou3
+	em1 dou3
+到	em1 dou3
+〡〣	em1 gei3
+	em1 gei3
+記	em1 gei3
+〡〡	em1 gan1
+	em1 gan1
+巾	em1 gan1
+〡〣	em1 tung3
+	em1 tung3
+痛	em1 tung3
+〡〦〣	em1 zi6 ngaak3
+	em1 zi6 ngaak3
+字額	em1 zi6 ngaak3
+〡	en1
+	en1
+〡〢	nei1 fi2
+	nei1 fi2
+〡〡	en1 zi1
+	en1 zi1
+〤〢〡	ngang4 ngang2 seng1
+々	ngang4 ngang2 seng1
+聲	ngang4 ngang2 seng1
+〡々	ngek1 ngek1
+々	ngek1 ngek1
+〡々〣	ngok1 ngok1 ceoi3
+々	ngok1 ngok1 ceoi3
+脆	ngok1 ngok1 ceoi3
+〡〤	nai1 kem4
+	nai1 kem4
+〣	niu3
+	niu3
+〡〡〡	lam1 baa1 wan1
+	lam1 baa1 wan1
+〡〡	nuk1 buk1
+	nuk1 buk1
+〡〡	luk1 buk1
+	luk1 buk1
+〡〡	en1 ce1
+	en1 ce1
+車	en1 ce1
+〡〦	en1 noi6
+	en1 noi6
+耐	en1 noi6
+〡〤	en1 nin4
+	en1 nin4
+年	en1 nin4
+〡〣	en1 sin3
+	en1 sin3
+線	en1 sin3
+〡〡	ou1 kem1
+	ou1 kem1
+〡	oe1
+	oe1
+〡〡〡	ou1 ji1 em1
+	ou1 ji1 em1
+〤	eot4
+	eot4
+〤	oek4
+	oek4
+〦	eot6
+	eot6
+〡〤	o1 faa4
+	o1 faa4
+〡〡	ou1 kei1
+	ou1 kei1
+〡〡〡	ou1 kei1 bang1
+	ou1 kei1 bang1
+繃	ou1 kei1 bang1
+〡〡〣	ou1 kei1 geng3
+	ou1 kei1 geng3
+鏡	ou1 kei1 geng3
+〡〡〤	ou1 e1 lou4
+	ou1 e1 lou4
+〡〡	ou1 eu1
+	ou1 eu1
+〦〡	ngong6 gau1
+	ngong6 gau1
+〦〡々	ngong6 gau1 gau1
+々	ngong6 gau1 gau1
+〦〡〢	ngong6 gau1 zai2
+	ngong6 gau1 zai2
+仔	ngong6 gau1 zai2
+〡〡	ou1 pi1
+	ou1 pi1
+〡〤	ou1 pan4
+	ou1 pan4
+〦〡	ok6 baa1
+	ok6 baa1
+〡〡	ou1 ti1
+	ou1 ti1
+〡	au1
+	au1
+〡〡	au1 dei1
+	au1 dei1
+〡〡	au1 dei1
+	au1 dei1
+〡〤	au1 let4
+	au1 let4
+〡〤	ou1 faa4
+	ou1 faa4
+〡〤〡	ou1 faa4 gei1
+	ou1 faa4 gei1
+機	ou1 faa4 gei1
+〡〣	ou1 gei3
+	ou1 gei3
+記	ou1 gei3
+〡〢	ou1 zeoi2
+	ou1 zeoi2
+咀	ou1 zeoi2
+〡〤〢	ou1 jing4 teoi2
+	ou1 jing4 teoi2
+型腿	ou1 jing4 teoi2
+〡〢	ou1 zai2
+	ou1 zai2
+仔	ou1 zai2
+〡〢	ou1 zeoi2
+	ou1 zeoi2
+嘴	ou1 zeoi2
+〡	pi1
+	pi1
+〡	pek1
+	pek1
+〡	pet1
+	pet1
+〡	pe1
+	pe1
+〡	pen1
+	pen1
+〡〡	pen1 kik1
+	pen1 kik1
+〡〤	pen1 cyu4
+	pen1 cyu4
+〡〤	pei1 paa4
+	pei1 paa4
+〦〡〤	paa6 ku1 aa4
+	paa6 ku1 aa4
+〡	paat1
+	paat1
+〦〡	paat6 tit1
+	paat6 tit1
+〡〤	paat1 naa4
+	paat1 naa4
+〡〡	paat1 taai1
+	paat1 taai1
+〡〤	paa1 ti4
+	paa1 ti4
+〡〤	paat1 ti4
+	paat1 ti4
+〡〤	paa1 si4
+	paa1 si4
+〡〢	paa1 si2
+	paa1 si2
+〡〤〡	paa1 si4 pot1
+	paa1 si4 pot1
+〦	pet6
+	pet6
+〡〤	pei1 seon4
+	pei1 seon4
+〡々	pet1 pet1
+々	pet1 pet1
+〡〡	pi1 si1
+	pi1 si1
+〡〡	pi1 ji1
+	pi1 ji1
+〡〤	pet1 dou4
+	pet1 dou4
+〡〤	pe1 dou4
+	pe1 dou4
+〦〡	pat6 sen1
+	pat6 sen1
+〦〡	poe6 sen1
+	poe6 sen1
+〡々	pet1 pet1
+々	pet1 pet1
+〡〡〣	pi1 ji1 fu3
+	pi1 ji1 fu3
+褲	pi1 ji1 fu3
+〡〡〡	pi1 ji1 saam1
+	pi1 ji1 saam1
+衫	pi1 ji1 saam1
+〡〡〤	pi1 ji1 tong4
+	pi1 ji1 tong4
+堂	pi1 ji1 tong4
+〡〡	pi1 zi1
+	pi1 zi1
+〡〡	pi1 zyu1
+	pi1 zyu1
+〡〤	fi1 sik4
+	fi1 sik4
+〡〡〣〦	pi1 ei1 cyu3 zik6
+	pi1 ei1 cyu3 zik6
+值	pi1 ei1 cyu3 zik6
+〡	paai1
+	paai1
+〡〡	pik1 ap1
+	pik1 ap1
+〡	ping1
+	ping1
+〡〤	pi1 saa4
+	pi1 saa4
+〡〢	pi1 saa2
+	pi1 saa2
+〡〡	pi1 kei1
+	pi1 kei1
+〦〡	pat6 len1
+	pat6 len1
+〡〡	pi1 em1
+	pi1 em1
+〡	pou1
+	pou1
+〡	pon1
+	pon1
+〡	pok1
+	pok1
+〡〢	pou1 lou2
+	pou1 lou2
+〡	pok1
+	pok1
+〡	pot1
+	pot1
+〡〢	pou1 si2
+	pou1 si2
+〡	pou1
+	pou1
+〡〡〤	pi1 aa1 lou4
+	pi1 aa1 lou4
+〡〤	pi1 fet4
+	pi1 fet4
+〡〤	pi1 fek4
+	pi1 fek4
+〦〡	pi6 foe1
+	pi6 foe1
+〦〡	pe6 foe1
+	pe6 foe1
+〦〡	pi6 sen1
+	pi6 sen1
+〡	pin1
+	pin1
+〡〢	pin1 taa2
+	pin1 taa2
+〡〡〤	pou1 fe1 saa4
+	pou1 fe1 saa4
+〡〡〢	pou1 fe1 saa2
+	pou1 fe1 saa2
+〡〡〤	pou1 fet1 saa4
+	pou1 fet1 saa4
+〡〡〢	pou1 fet1 saa2
+	pou1 fet1 saa2
+〡〤	pou1 gwem4
+	pou1 gwem4
+〡〤	po1 zek4
+	po1 zek4
+〦〡〢	pou6 zek1 taa2
+	pou6 zek1 taa2
+〦〡〤	pou6 zek1 taa4
+	pou6 zek1 taa4
+〦〡	pou6 mou1
+	pou6 mou1
+〦〡〤	pou6 pou1 sou4
+々	pou6 pou1 sou4
+〦〡	saai6 ko1
+	saai6 ko1
+〡〡〡〡〤	pi1 ti1 bi1 e1 fu4
+	pi1 ti1 bi1 e1 fu4
+〡〡〡〡〤	pi1 ti1 zi1 e1 fu4
+	pi1 ti1 zi1 e1 fu4
+〡〡〡	pi1 ti1 jiu1
+	pi1 ti1 jiu1
+〡	pap1
+	pap1
+〡〤	piu1 aa4
+	piu1 aa4
+〡	piu1
+	piu1
+〡〤	pu1 syu4
+	pu1 syu4
+〡〤	pat1 sou4
+	pat1 sou4
+〤〥〣〡	pu4 ni5 aa3 mo1
+	pu4 ni5 aa3 mo1
+你麼	pu4 ni5 aa3 mo1
+〡〤	pi1 man4
+	pi1 man4
+民	pi1 man4
+〡〤	pi1 paai4
+	pi1 paai4
+牌	pi1 paai4
+〡〤	pi1 tou4
+	pi1 tou4
+圖	pi1 tou4
+〡〢	pi1 soeng2
+	pi1 soeng2
+相	pi1 soeng2
+〡	kiu1
+	kiu1
+〡〡	kiu1 si1
+	kiu1 si1
+〡々	kiu1 kiu1
+々	kiu1 kiu1
+〡〡〡	kiu1 aau1 kuk1
+	kiu1 aau1 kuk1
+〡〢	kwo1 li2
+	kwo1 li2
+〡〢	ko1 li2
+	ko1 li2
+〡	kwit1
+	kwit1
+〡〤	kwi1 zi4
+	kwi1 zi4
+〡〢	kou1 taa2
+	kou1 taa2
+〡〢	kiu1 baan2
+	kiu1 baan2
+版	kiu1 baan2
+〡	aau1
+	aau1
+〡	wem1
+	wem1
+〦〡	wi6 foe1
+	wi6 foe1
+〡〡	wou1 gei1
+	wou1 gei1
+機	wou1 gei1
+〡	waan1
+	waan1
+〡〢	waau1 taa2
+	waau1 taa2
+〤	saa4
+	saa4
+〣	saak3
+	saak3
+〡〢	seu1 si2
+	seu1 si2
+〡〤	sei1 fu4
+	sei1 fu4
+〡〦〡	sik1 si6 fung1
+	sik1 si6 fung1
+〡〡	sik1 fung1
+	sik1 fung1
+〤〡	saa4 ken1
+	saa4 ken1
+〤〡〢	saa4 ken1 naa2
+	saa4 ken1 naa2
+〡〤〤	saai1 jan4 si4
+	saai1 jan4 si4
+〡〤	soe1 cyu4
+	soe1 cyu4
+〡	sit1
+	sit1
+〡	seu1
+	seu1
+〦	sem6
+	sem6
+〡	sen1
+	sen1
+〡〢	sen1 si2
+	sen1 si2
+〡	soe1
+	soe1
+〡〢	soe1 faa2
+	soe1 faa2
+〡	set1
+	set1
+〡〤	set1 tau4
+	set1 tau4
+頭	set1 tau4
+〡〢	se1 fan2
+	se1 fan2
+〡〢	se1 wan2
+	se1 wan2
+〡〤	soe1 aa4
+	soe1 aa4
+〡	saap1
+	saap1
+〡〢	saap1 sing2
+	saap1 sing2
+醒	saap1 sing2
+〡〤	si1 fu4
+	si1 fu4
+〡	sot1
+	sot1
+〡々〢	sot1 sot1 dei2
+々	sot1 sot1 dei2
+倛	sot1 sot1 dei2
+〡〢〣	sot1 zung2 zai3
+	sot1 zung2 zai3
+總掣	sot1 zung2 zai3
+〡	sot1
+	sot1
+〡	sou1
+	sou1
+〡〡	sou1 hen1
+	sou1 hen1
+〡〡〢	sou1 kwo1 li2
+	sou1 kwo1 li2
+〡〡〢	sou1 ko1 li2
+	sou1 ko1 li2
+〤〡〤〤	si4 li1 soe4 loe4
+	si4 li1 soe4 loe4
+〡〤	sing1 gou4
+	sing1 gou4
+〡〢	sing1 pun2
+	sing1 pun2
+盤	sing1 pun2
+〤	soe4
+	soe4
+〡〤〡〡〤	e1 si4 aai1 e1 si4
+	e1 si4 aai1 e1 si4
+〡	sit1
+	sit1
+〡	sai1
+	sai1
+〡〡	sit1 ap1
+	sit1 ap1
+〡〢	saai1 si2
+	saai1 si2
+〦〡〦〡〤	si6 mo1 pou6 tei1 tou4
+	si6 mo1 pou6 tei1 tou4
+〦〡〢	si6 luk1 gaa2
+	si6 luk1 gaa2
+〤	sou4
+	sou4
+〦〦	sou6 si6
+	sou6 si6
+〡〤	sou1 sou4
+々	sou1 sou4
+〡〤	sou1 lou4
+	sou1 lou4
+〡	so1
+	so1
+〡〤	so1 li4
+	so1 li4
+〡〤	so1 wi4
+	so1 wi4
+〡〤	so1 li4
+	so1 li4
+〡〤〡	so1 li4 lo1
+	so1 li4 lo1
+〡	so1 li4 lo1
+〡〡	sou1 set1
+	sou1 set1
+〡〢	so1 si2
+	so1 si2
+〡〢	sou1 fan2
+	sou1 fan2
+〤〡	saa4 baa1
+	saa4 baa1
+〤〡	saa4 dei1
+	saa4 dei1
+〤〡〤	saa4 diu1 bat4
+	saa4 diu1 bat4
+〦〡〤	si6 diu1 bat4
+	si6 diu1 bat4
+〤〡〤	saa4 daai1 jou4
+	saa4 daai1 jou4
+〦〢	sap6 zai2
+	sap6 zai2
+仔	sap6 zai2
+〦〡〤	sap6 pou1 si4
+	sap6 pou1 si4
+〡〤	su1 aa4
+	su1 aa4
+〦〡〤	sat6 paai1 si4
+	sat6 paai1 si4
+〦〡	soe6 fei1
+	soe6 fei1
+〡〤	soe1 fei4
+	soe1 fei4
+〦〡	si6 wit1
+	si6 wit1
+〡〤〤	si1 li4 baa4
+	si1 li4 baa4
+〡	ti1
+	ti1
+〡〡	ti1 ei1
+	ti1 ei1
+〡	tep1
+	tep1
+〡〤	tep1 let4
+	tep1 let4
+〡〤	tep1 lat4
+	tep1 lat4
+〡	tek1
+	tek1
+〡	tik1
+	tik1
+〡〥	tik1 je5
+	tik1 je5
+野	tik1 je5
+〡	tok1
+	tok1
+〡〡	tok1 dak1
+	tok1 dak1
+得	tok1 dak1
+〡〤	taa1 get4
+	taa1 get4
+〡〢	tei1 si2
+	tei1 si2
+〡〡	ti1 bi1
+	ti1 bi1
+〡〡	ti1 bek1
+	ti1 bek1
+〡	ti1
+	ti1
+〡	tim1
+	tim1
+〡	ti1
+	ti1
+〦	tem6
+	tem6
+〡	tem1
+	tem1
+〡	tet1
+	tet1
+〡〤	fen1 kiu4
+	fen1 kiu4
+〡〤	ti1 su4
+	ti1 su4
+〡〤	taai1 tou4
+	taai1 tou4
+〡〤	tai1 tou4
+	tai1 tou4
+〡〤	toi1 let4
+	toi1 let4
+〡〤	to1 let4
+	to1 let4
+〡	top1
+	top1
+〡〤	tou1 tou4
+々	tou1 tou4
+〡〦〡	taa1 cyu6 wut1
+	taa1 cyu6 wut1
+〡	cou1
+	cou1
+〡	tun1
+	tun1
+〡〡	dap1 ce1
+	dap1 ce1
+車	dap1 ce1
+〡	toeng1
+	toeng1
+〡〢	tiu1 taa2
+	tiu1 taa2
+〡〤	tiu1 taa4
+	tiu1 taa4
+〦〡	tiu6 to1
+	tiu6 to1
+〡〣	ti1 cek3
+	ti1 cek3
+尺	ti1 cek3
+〡〡	ti1 gwat1
+	ti1 gwat1
+骨	ti1 gwat1
+〡〡〢	ti1 gwat1 paa2
+	ti1 gwat1 paa2
+骨扒	ti1 gwat1 paa2
+〡〡〤〢	ti1 gwat1 ngau4 paa2
+	ti1 gwat1 ngau4 paa2
+骨牛扒	ti1 gwat1 ngau4 paa2
+〡〡	ti1 seot1
+	ti1 seot1
+裇	ti1 seot1
+〡〡	ti1 seot1
+	ti1 seot1
+恤	ti1 seot1
+〡〦〣	ti1 zi6 fu3
+	ti1 zi6 fu3
+字褲	ti1 zi6 fu3
+〡〦〣	ti1 zi6 zoeng3
+	ti1 zi6 zoeng3
+字帳	ti1 zi6 zoeng3
+〡〡〤〡	ju1 e1 fu4 ou1
+	ju1 e1 fu4 ou1
+〡〡〡	ju1 e1 fou1
+	ju1 e1 fou1
+〣	an3
+	an3
+〡〤	an1 kou4
+	an1 kou4
+〡〤	ang1 kou4
+	ang1 kou4
+〡〤	an1 daa4
+	an1 daa4
+〡〢	an1 daa2
+	an1 daa2
+〡〡〡	ju1 en1 ou1
+	ju1 en1 ou1
+〡〢	ju1 nou2
+	ju1 nou2
+〡	ap1
+	ap1
+〡〡	ap1 dei1
+	ap1 dei1
+〡〡	ap1 lou1
+	ap1 lou1
+〡〡〤〡	ju1 e1 si4 bi1
+	ju1 e1 si4 bi1
+〡〡〤〡〣〡〥	ju1 e1 si4 bi1 gei3 jik1 paang5
+	ju1 e1 si4 bi1 gei3 jik1 paang5
+記憶棒	ju1 e1 si4 bi1 gei3 jik1 paang5
+〡〡〤〡〢〢	ju1 e1 si4 bi1 sau2 zi2
+	ju1 e1 si4 bi1 sau2 zi2
+手指	ju1 e1 si4 bi1 sau2 zi2
+〡〢	ju1 pun2
+	ju1 pun2
+盤	ju1 pun2
+〡〦〦〣	ju1 dat6 noi6 fu3
+	ju1 dat6 noi6 fu3
+凸內褲	ju1 dat6 noi6 fu3
+〡〤〣〡	ju1 jing4 zyun3 waan1
+	ju1 jing4 zyun3 waan1
+形轉彎	ju1 jing4 zyun3 waan1
+〡〤〢	ju1 jing4 zam2
+	ju1 jing4 zam2
+型枕	ju1 jing4 zam2
+〡	wen1
+	wen1
+〡〢	wen1 zai2
+	wen1 zai2
+仔	wen1 zai2
+〡〢	weng1 zai2
+	weng1 zai2
+仔	weng1 zai2
+〡〡〡	wi1 si1 di1
+	wi1 si1 di1
+〦〡	fou6 kep1
+	fou6 kep1
+〡〢	wuk1 kaa2
+	wuk1 kaa2
+〡	wuk1
+	wuk1
+〡〡	wi1 aau1
+	wi1 aau1
+〡〡〤	wi1 aau1 lou4
+	wi1 aau1 lou4
+〡〡	wi1 kau1
+	wi1 kau1
+溝	wi1 kau1
+〡〥	wi1 leng5
+	wi1 leng5
+領	wi1 leng5
+〡	wang1
+	wang1
+〦〡〤	waa6 saa1 bi4
+	waa6 saa1 bi4
+〦〡〤	waat6 saa1 bi4
+	waat6 saa1 bi4
+〡	wok1
+	wok1
+〦	weng6
+	weng6
+〡	wet1
+	wet1
+〡〤	wet1 coeng4
+	wet1 coeng4
+場	wet1 coeng4
+〡〡	wet1 mui1
+	wet1 mui1
+妹	wet1 mui1
+〡々〡々	wi1 wi1 wet1 wet1
+々々	wi1 wi1 wet1 wet1
+〡	wing1
+	wing1
+〡〡	win1 pei1
+	win1 pei1
+〡	woek1
+	woek1
+〡	wou1
+	wou1
+〡々	wou1 wou1
+々	wou1 wou1
+〡々	wou1 wou1
+々	wou1 wou1
+〡〡	win1 pei1
+	win1 pei1
+〡〤	ik1 si4
+	ik1 si4
+〡〡	ik1 ou1
+	ik1 ou1
+〡〡〣	ik1 sou1 zoeng3
+	ik1 sou1 zoeng3
+醬	ik1 sou1 zoeng3
+〡〤〡	ik1 si4 gwong1
+	ik1 si4 gwong1
+光	ik1 si4 gwong1
+〡	waai1
+	waai1
+〣	jaap3
+	jaap3
+〦	jaap6
+	jaap6
+〡	je1
+	je1
+〡〢	jit1 si2
+	jit1 si2
+〡	jen1
+	jen1
+〣	jo3
+	jo3
+〡	jou1
+	jou1
+〡	jaang1
+	jaang1
+〡〡	ju1 tup1
+	ju1 tup1
+〡〡〤	ju1 tup1 baa4
+	ju1 tup1 baa4
+〡〡〢	waai1 pi1 zai2
+	waai1 pi1 zai2
+仔	waai1 pi1 zai2
+〦〡	ji6 set1
+	ji6 set1
+〡	set1
+	set1
+〤	zip4
+	zip4
+〡	sum1
+	sum1
+〣〤	aa3 zoe4
+	aa3 zoe4
+	aa3 zoe4
+〣〡	aa3 het1
+	aa3 het1
+	aa3 het1
+〣〡	aa3 kiu1
+	aa3 kiu1
+	aa3 kiu1
+〣〡〣〦	aa3 kiu1 zing3 zyun6
+	aa3 kiu1 zing3 zyun6
+正傳	aa3 kiu1 zing3 zyun6
+〣〤	aa3 soe4
+	aa3 soe4
+	aa3 soe4
+〥〤〡〦〤	ngong5 ping4 saam1 luk6 ling4
+	ngong5 ping4 saam1 luk6 ling4
+〡〢〡	baa1 bei2 kiu1
+	baa1 bei2 kiu1
+巴比	baa1 bei2 kiu1
+〡〢〡	baa1 bei2 kiu1
+	baa1 bei2 kiu1
+芭比	baa1 bei2 kiu1
+〦〡	baan6 ku1
+	baan6 ku1
+扮	baan6 ku1
+〣〡	baau3 sit1
+	baau3 sit1
+爆	baau3 sit1
+〣〡〡	bui3 do1 fan1
+	bui3 do1 fan1
+背多	bui3 do1 fan1
+〦〡〡	bai6 gaa1 leu1
+	bai6 gaa1 leu1
+弊家	bai6 gaa1 leu1
+〡〡	bo1 but1
+	bo1 but1
+波	bo1 but1
+〢〡〢	caai2 lou1 laa2
+	caai2 lou1 laa2
+踩	caai2 lou1 laa2
+〢〡〢	jaai2 lou1 laa2
+	jaai2 lou1 laa2
+踩	jaai2 lou1 laa2
+〣〡	coeng3 kei1
+	coeng3 kei1
+唱	coeng3 kei1
+〣〡〡〡〡	coeng3 kaa1 laa1 ou1 kei1
+	coeng3 kaa1 laa1 ou1 kei1
+唱卡〡	coeng3 kaa1 laa1 ou1 kei1
+〣〣〡〡〡	coeng3 kaa3 laa1 ou1 kei1
+	coeng3 kaa3 laa1 ou1 kei1
+唱卡〡	coeng3 kaa3 laa1 ou1 kei1
+〡〡	ce1 kem1
+	ce1 kem1
+車	ce1 kem1
+〢〡〤	ce2 lin1 kei4
+	ce2 lin1 kei4
+扯旗	ce2 lin1 kei4
+〡〡	ceot1 cit1
+	ceot1 cit1
+出	ceot1 cit1
+〡〡	ceot1 pu1
+	ceot1 pu1
+出	ceot1 pu1
+〡〡	ceot1 sou1
+	ceot1 sou1
+出	ceot1 sou1
+〡〤〡	ceot1 lung4 liu1
+	ceot1 lung4 liu1
+出籠	ceot1 lung4 liu1
+〤〦〢	co4 daai6 di2
+	co4 daai6 di2
+鋤大	co4 daai6 di2
+〤〡	syun4 pi1
+	syun4 pi1
+船	syun4 pi1
+〡〡々	ceoi1 bi1 bi1
+々	ceoi1 bi1 bi1
+吹	ceoi1 bi1 bi1
+〣〡〢	daap3 weng1 zai2
+	daap3 weng1 zai2
+搭仔	daap3 weng1 zai2
+〢〢々〢	daa2 gau2 gau2 gau2
+々々	daa2 gau2 gau2 gau2
+〢〡〢	daa2 bok1 sing2
+	daa2 bok1 sing2
+打	daa2 bok1 sing2
+〢〡	daa2 zei1
+	daa2 zei1
+打	daa2 zei1
+〦〡	daai6 em1
+	daai6 em1
+大	daai6 em1
+〦〤	daai6 soe4
+	daai6 soe4
+大	daai6 soe4
+〦〡	daai6 wi1
+	daai6 wi1
+大	daai6 wi1
+〡〡	daan1 ti1
+	daan1 ti1
+單	daan1 ti1
+〢〣〦〤〣〦	dang2 dou3 ji6 ling4 sei3 luk6
+	dang2 dou3 ji6 ling4 sei3 luk6
+〡〡	dai1 bi1
+	dai1 bi1
+低	dai1 bi1
+〡〡〢	dai1 bi1 zai2
+	dai1 bi1 zai2
+低仔	dai1 bi1 zai2
+〡〡	di1 fen1
+	di1 fen1
+	di1 fen1
+〡〡	di1 fen1
+	di1 fen1
+	di1 fen1
+〣〡	dit3 wok1
+	dit3 wok1
+跌	dit3 wok1
+〣〡	dit3 wot1
+	dit3 wot1
+跌	dit3 wot1
+〦〡	dung6 eu1
+	dung6 eu1
+動	dung6 eu1
+〢〡	dou2 zei1
+	dou2 zei1
+賭	dou2 zei1
+〢〡	dou2 zoe1
+	dou2 zoe1
+賭	dou2 zoe1
+〡〡〡〦	do1 laa1 ei1 mung6
+	do1 laa1 ei1 mung6
+哆〡夢	do1 laa1 ei1 mung6
+〡〡	ngaak1 lai1
+	ngaak1 lai1
+呃	ngaak1 lai1
+〡〡	aak1 lai1
+	aak1 lai1
+呃	aak1 lai1
+〣〤〤	faat3 ti4 tang4
+	faat3 ti4 tang4
+發騰	faat3 ti4 tang4
+〣〤〤	faat3 ti4 tang4
+	faat3 ti4 tang4
+發騰	faat3 ti4 tang4
+〡〡〡	fan1 ei1 bi1
+	fan1 ei1 bi1
+分	fan1 ei1 bi1
+〢〣〣〡〤	gaau2 cyun3 go3 paat1 ti4
+	gaau2 cyun3 go3 paat1 ti4
+搞寸個	gaau2 cyun3 go3 paat1 ti4
+〣々〡々	gaak3 gaak3 zeu1 zeu1
+々々	gaak3 gaak3 zeu1 zeu1
+格格	gaak3 gaak3 zeu1 zeu1
+〣〡	gaau3 pok1
+	gaau3 pok1
+夠	gaau3 pok1
+〣〡〤	gau3 paau1 waa4
+	gau3 paau1 waa4
+夠	gau3 paau1 waa4
+〣〡〢	gau3 ko1 li2
+	gau3 ko1 li2
+夠	gau3 ko1 li2
+〡〡	guk1 em1
+	guk1 em1
+谷	guk1 em1
+〢〡	gwo2 zem1
+	gwo2 zem1
+果	gwo2 zem1
+〢〡	hou2 fen1
+	hou2 fen1
+好	hou2 fen1
+〢〡	hou2 gwei1
+	hou2 gwei1
+好	hou2 gwei1
+〢〡	hou2 haai1
+	hou2 haai1
+好	hou2 haai1
+〢〡	hou2 pei1
+	hou2 pei1
+好	hou2 pei1
+〢〡	hou2 je1
+	hou2 je1
+好	hou2 je1
+〢〡〡	hou2 ngaam1 ki1
+	hou2 ngaam1 ki1
+好	hou2 ngaam1 ki1
+〤〡〢	ho4 bi1 zai2
+	ho4 bi1 zai2
+何仔	ho4 bi1 zai2
+〤〡	hung4 ei1
+	hung4 ei1
+紅	hung4 ei1
+〤〡	hung4 wen1
+	hung4 wen1
+紅	hung4 wen1
+〡〡〦〡	fu1 kap1 pat6 len1
+	fu1 kap1 pat6 len1
+呼吸	fu1 kap1 pat6 len1
+〣〡	fo3 wen1
+	fo3 wen1
+貨	fo3 wen1
+〡〡	gai1 nan1
+	gai1 nan1
+雞	gai1 nan1
+〣〡	gaap3 ben1
+	gaap3 ben1
+夾	gaap3 ben1
+〡〡	zin1 pen1
+	zin1 pen1
+煎	zin1 pen1
+〣〡	gin3 bot1
+	gin3 bot1
+見	gin3 bot1
+〢〦〡	gong2 laan6 gek1
+	gong2 laan6 gek1
+講爛	gong2 laan6 gek1
+〢〡	gaau2 gek1
+	gaau2 gek1
+攪	gaau2 gek1
+〢〣〣〡〤	gaau2 cyun3 go3 paa1 ti4
+	gaau2 cyun3 go3 paa1 ti4
+攪串個	gaau2 cyun3 go3 paa1 ti4
+〢〦〡	gaau2 laan6 gek1
+	gaau2 laan6 gek1
+攪爛	gaau2 laan6 gek1
+〣〡	zip3 zop1
+	zip3 zop1
+接	zip3 zop1
+〡々〡	gat1 gat1 fen1
+々	gat1 gat1 fen1
+拮拮	gat1 gat1 fen1
+〡〡〡〡	kaa1 laa1 ou1 kei1
+	kaa1 laa1 ou1 kei1
+卡拉	kaa1 laa1 ou1 kei1
+〣〡〡〡	kaa3 laa1 ou1 kei1
+	kaa3 laa1 ou1 kei1
+卡拉	kaa3 laa1 ou1 kei1
+〡〡〡〡	kaa1 laa1 ou1 kei1
+	kaa1 laa1 ou1 kei1
+卡〡	kaa1 laa1 ou1 kei1
+〣〡〡〡	kaa3 laa1 ou1 kei1
+	kaa3 laa1 ou1 kei1
+卡〡	kaa3 laa1 ou1 kei1
+〡〡	hoi1 ben1
+	hoi1 ben1
+開	hoi1 ben1
+〡〡	hoi1 cek1
+	hoi1 cek1
+開	hoi1 cek1
+〡〡	hoi1 cek1
+	hoi1 cek1
+開	hoi1 cek1
+〡〡〡	hoi1 ou1 ti1
+	hoi1 ou1 ti1
+開	hoi1 ou1 ti1
+〡〡	hoi1 pi1
+	hoi1 pi1
+開	hoi1 pi1
+〡〡〤	hoi1 paa1 ti4
+	hoi1 paa1 ti4
+開	hoi1 paa1 ti4
+〡〡〢	hoi1 toe1 bou2
+	hoi1 toe1 bou2
+開	hoi1 toe1 bou2
+〡〡	o1 pi1
+	o1 pi1
+柯	o1 pi1
+〤〡	lei4 em1
+	lei4 em1
+來	lei4 em1
+〢〡	laam2 biu1
+	laam2 biu1
+攬	laam2 biu1
+〦〡	laan6 gek1
+	laan6 gek1
+爛	laan6 gek1
+〤〡	lei4 em1
+	lei4 em1
+蒞	lei4 em1
+〤〡	lai4 em1
+	lai4 em1
+蒞	lai4 em1
+〤〡	lung4 liu1
+	lung4 liu1
+籠	lung4 liu1
+〡〡	luk1 ling1
+	luk1 ling1
+碌	luk1 ling1
+〦〡	lok6 di1
+	lok6 di1
+落	lok6 di1
+〦〡	luk6 wen1
+	luk6 wen1
+綠	luk6 wen1
+〥〡〡	maai5 fu1 zung1
+	maai5 fu1 zung1
+買鐘	maai5 fu1 zung1
+〥〡	mou5 mut1
+	mou5 mut1
+冇	mou5 mut1
+〥〡	mou5 pon1
+	mou5 pon1
+冇	mou5 pon1
+〥〡	mou5 sei1
+	mou5 sei1
+冇	mou5 sei1
+〥〣𠄡〥〡〡	mei5 gwok3 ng5 jat1 keoi1
+𠄡	mei5 gwok3 ng5 jat1 keoi1
+美囻51區	mei5 gwok3 ng5 jat1 keoi1
+〤〦〡	man4 zuk6 luk1
+	man4 zuk6 luk1
+民族	man4 zuk6 luk1
+〣〡	paai3 gwei1
+	paai3 gwei1
+派	paai3 gwei1
+〣〡	pek3 kei1
+	pek3 kei1
+劈	pek3 kei1
+〤〡〢〤	cai4 bi1 dyun2 kwan4
+	cai4 bi1 dyun2 kwan4
+齊短裙	cai4 bi1 dyun2 kwan4
+〤〡〢〢〤	cai4 bi1 siu2 dyun2 kwan4
+	cai4 bi1 siu2 dyun2 kwan4
+齊小短裙	cai4 bi1 siu2 dyun2 kwan4
+〡々〡	gat1 gat1 fen1
+々	gat1 gat1 fen1
+㓤㓤	gat1 gat1 fen1
+〡〡々	cing1 bi1 bi1
+々	cing1 bi1 bi1
+青	cing1 bi1 bi1
+〡〡々	ceng1 bi1 bi1
+々	ceng1 bi1 bi1
+青	ceng1 bi1 bi1
+〡〡〡〡〡	cing1 saan1 ou1 pan1 dei1
+	cing1 saan1 ou1 pan1 dei1
+青山	cing1 saan1 ou1 pan1 dei1
+〡〤	heng1 keng4
+	heng1 keng4
+輕	heng1 keng4
+〣〡	heoi3 wet1
+	heoi3 wet1
+去	heoi3 wet1
+〡〡	hyun1 ei1
+	hyun1 ei1
+圈	hyun1 ei1
+〡〡〢	saai1 ge1 si2
+	saai1 ge1 si2
+嘥	saai1 ge1 si2
+〡〡	saam1 si1
+	saam1 si1
+三	saam1 si1
+〡〡	saam1 pi1
+	saam1 pi1
+三	saam1 pi1
+〡〡	saam1 ti1
+	saam1 ti1
+三	saam1 ti1
+〣〡	saan3 ben1
+	saan3 ben1
+散	saan3 ben1
+〡〡〢	sou1 ko1 li2
+	sou1 ko1 li2
+騷	sou1 ko1 li2
+〡〡〢	sou1 kwo1 li2
+	sou1 kwo1 li2
+騷	sou1 kwo1 li2
+〣〡	sou3 kot1
+	sou3 kot1
+掃	sou3 kot1
+〡〡	saa1 pok1
+	saa1 pok1
+沙	saa1 pok1
+〡〡	saa1 pok1
+	saa1 pok1
+沙	saa1 pok1
+〤〡	so4 bi1
+	so4 bi1
+傻	so4 bi1
+〤〡	so4 caa1
+	so4 caa1
+傻	so4 caa1
+〡〡	saan1 pou1
+	saan1 pou1
+刪	saan1 pou1
+〤〡	se4 gwe1
+	se4 gwe1
+蛇	se4 gwe1
+〡〡〢	saang1 ken1 saa2
+	saang1 ken1 saa2
+生	saang1 ken1 saa2
+〦〣〡	sap6 sei3 kei1
+	sap6 sei3 kei1
+十四	sap6 sei3 kei1
+〦〡	sek6 kiu1
+	sek6 kiu1
+石	sek6 kiu1
+〦〡	sik6 pot1
+	sik6 pot1
+食	sik6 pot1
+〦〡	sat6 kiu1
+	sat6 kiu1
+實	sat6 kiu1
+〡〡	sik1 du1
+	sik1 du1
+識	sik1 du1
+〦〡〢	si6 daai1 lou2
+	si6 daai1 lou2
+士佬	si6 daai1 lou2
+〡〦々	sung1 pat6 pat6
+々	sung1 pat6 pat6
+鬆	sung1 pat6 pat6
+〣〡	taat3 kiu1
+	taat3 kiu1
+撻	taat3 kiu1
+〤〣〡々	tang4 seon3 kiu1 kiu1
+々	tang4 seon3 kiu1 kiu1
+騰訊	tang4 seon3 kiu1 kiu1
+〣〡〤	tiu3 ou1 faa4
+	tiu3 ou1 faa4
+跳	tiu3 ou1 faa4
+〤〦	jyun4 sem6
+	jyun4 sem6
+完	jyun4 sem6
+〢〡	waan2 laai1
+	waan2 laai1
+玩	waan2 laai1
+〢〡〡	waan2 e1 sem1
+	waan2 e1 sem1
+玩	waan2 e1 sem1
+〢〡〤〡	waan2 e1 si4 em1
+	waan2 e1 si4 em1
+玩	waan2 e1 si4 em1
+〢〤〣〡〡〡〡	wan2 jan4 coeng3 kaa1 laa1 ou1 kei1
+	wan2 jan4 coeng3 kaa1 laa1 ou1 kei1
+搵人唱卡拉	wan2 jan4 coeng3 kaa1 laa1 ou1 kei1
+𠄡〤〡	m4 du1
+𠄡	m4 du1
+𠄡	m4 du1
+𠄡〤〣〡〢	m4 gau3 ko1 li2
+𠄡	m4 gau3 ko1 li2
+𠄡夠	m4 gau3 ko1 li2
+〣〡	sai3 en1
+	sai3 en1
+細	sai3 en1
+〡〦〡	san1 bi6 jon1
+	san1 bi6 jon1
+新	san1 bi6 jon1
+〡〡〡	jau1 maa1 dei1
+	jau1 maa1 dei1
+休孖	jau1 maa1 dei1
+〣〡	aa3 het1
+	aa3 het1
+亞	aa3 het1
+〣〤	aa3 soe4
+	aa3 soe4
+亞	aa3 soe4
+〡〡	ngaam1 fiu1
+	ngaam1 fiu1
+	ngaam1 fiu1
+〡〡	ngaam1 ki1
+	ngaam1 ki1
+	ngaam1 ki1
+〡〡〡〢	jat1 kiu1 cing1 doi2
+	jat1 kiu1 cing1 doi2
+一清袋	jat1 kiu1 cing1 doi2
+〡〡〡〢	jat1 kiu1 cing1 toi2
+	jat1 kiu1 cing1 toi2
+一清枱	jat1 kiu1 cing1 toi2
+〡〡〣	jat1 tik1 gwo3
+	jat1 tik1 gwo3
+一過	jat1 tik1 gwo3
+〦〤〡〡	ji6 wai4 ei1 syun1
+	ji6 wai4 ei1 syun1
+異維酸	ji6 wai4 ei1 syun1
+〤〡	jau4 cop1
+	jau4 cop1
+郵	jau4 cop1
+〥〡	jau5 fiu1
+	jau5 fiu1
+有	jau5 fiu1
+〥〡	jau5 haat1
+	jau5 haat1
+有	jau5 haat1
+〥〡	jau5 pon1
+	jau5 pon1
+有	jau5 pon1
+〥〡	jau5 sei1
+	jau5 sei1
+有	jau5 sei1
+〥〤	jau5 sou4
+	jau5 sou4
+有	jau5 sou4
+〡〡	zaa1 fit1
+	zaa1 fit1
+揸	zaa1 fit1
+〡〡〤	zaa1 fit1 jan4
+	zaa1 fit1 jan4
+揸人	zaa1 fit1 jan4
+〡〡〤	zaa1 lip1 jan4
+	zaa1 lip1 jan4
+揸人	zaa1 lip1 jan4
+〡〡	zaai1 tok1
+	zaai1 tok1
+齋	zaai1 tok1
+〣〡〤〡	ziu3 ik1 si4 gwong1
+	ziu3 ik1 si4 gwong1
+照光	ziu3 ik1 si4 gwong1
+〡〤〡	zan1 jan4 sou1
+	zan1 jan4 sou1
+真人	zan1 jan4 sou1
+〣〡	zek3 dap1
+	zek3 dap1
+隻	zek3 dap1
+〡〤〣〡	zung1 tou4 zyun3 gei1
+	zung1 tou4 zyun3 gei1
+中途轉	zung1 tou4 zyun3 gei1
+〡〢〦〡	zyu1 zai2 pat6 len1
+	zyu1 zai2 pat6 len1
+豬仔	zyu1 zai2 pat6 len1
+〦〡々	ngong6 dok1 dok1
+々	ngong6 dok1 dok1
+戇	ngong6 dok1 dok1
+〦〡々	ngong6 kiu1 kiu1
+々	ngong6 kiu1 kiu1
+戇	ngong6 kiu1 kiu1
+〡〡	maa1 bi1
+	maa1 bi1
+孖	maa1 bi1
+〡〡〡	maa1 bi1 ce1
+	maa1 bi1 ce1
+孖車	maa1 bi1 ce1
+〡〡	maa1 kiu1
+	maa1 kiu1
+孖	maa1 kiu1
+〡〡	maa1 ti1
+	maa1 ti1
+孖	maa1 ti1
+〦〡	zi6 haai1
+	zi6 haai1
+自	zi6 haai1
+〦〡	zi6 pou1
+	zi6 pou1
+自	zi6 pou1
+〥〡〢	co5 bok1 si2
+	co5 bok1 si2
+坐	co5 bok1 si2
+〦〡〡〡	zou6 zi1 waai1 em1
+	zou6 zi1 waai1 em1
+做	zou6 zi1 waai1 em1
+〦〡	zou6 lep1
+	zou6 lep1
+做	zou6 lep1
+〦〡〡	zou6 paat1 taai1
+	zou6 paat1 taai1
+做	zou6 paat1 taai1
+〦〣	zou6 sou3
+	zou6 sou3
+做	zou6 sou3
