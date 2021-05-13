@@ -4,11 +4,14 @@ The Python code used for generating the fonts and keyboards in [jyutcitzi-font](
 
 ## How to Reproduce the Jyutcitzi Fonts and Keyboards
 ```
+# Reproduce Jyutcitzi Fonts
 cd font
 fontforge extract_glyphs_from_fonts.py
 python make_chars_fonts.py
 fontforge make_font_fonts.py
-cd .. (out of font folder)
+
+# Reproduce Jyutcitzi Keyboards
+cd ..
 python rime_chars.py > rime/jyutcitzi_web.dict.yaml
 python rime_chars_font.py > rime/jyutcitzi_font.dict.yaml
 python make_compound.py web > rime/jyutcitizi_web.compound.dict.yaml
