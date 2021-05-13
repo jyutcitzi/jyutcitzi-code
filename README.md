@@ -4,7 +4,6 @@ The Python code used for generating the fonts and keyboards in [jyutcitzi-font](
 
 ## How to Reproduce the Jyutcitzi Fonts and Keyboards
 ```
-cd lang_input
 cd font
 fontforge extract_glyphs_from_fonts.py
 python make_chars_fonts.py
